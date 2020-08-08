@@ -1,8 +1,8 @@
 class Dog
 end
 
-fido = new.Dog
+fido = Dog.new
 
-snoop = new.Dog
+snoop = Dog.new
 
-lassie = new.Dog
+lassie = Dog.new
